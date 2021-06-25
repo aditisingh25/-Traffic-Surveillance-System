@@ -1,6 +1,6 @@
 # -Traffic-Surveillance-System
-This Traffic Surveillance system detects the vehicles and track them. It also tells the number of vehicles present in the frame and number of vehicles present in ech lane.       
-Also which car is crossing speed limit. In This project object detection is done by two methods one by background sepration and other by using YOLOv4.
+This Traffic Surveillance system detects the vehicles and track them. It also tells the number of vehicles present in the frame and number of vehicles present in each lane. Also which car is crossing speed limit.                              
+In This project object detection is done by two methods one by background sepration and other by using YOLOv4.
 
 
 Task: Process any open source/Licence free traffic video from web to show following analysis.
